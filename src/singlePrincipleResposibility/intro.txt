@@ -1,0 +1,11 @@
+Single Principle Responsibility 
+Responsabilidade Única
+
+Independente da classe que você criar deve apenas ter uma unica Responsabilidade
+e essa responsablidade deve ser unica de uma unica classe
+
+como indentificar isso ?
+$####
+o que essa classe faz ?
+ caso essa classe tenha mais de uma responsablidade
+ não está a seguir esse principio
