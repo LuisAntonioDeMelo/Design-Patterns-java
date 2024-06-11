@@ -1,4 +1,4 @@
-package singlePrincipleResposibility;
+package solid.singlePrincipleResposibility;
 
 import java.math.BigDecimal;
 

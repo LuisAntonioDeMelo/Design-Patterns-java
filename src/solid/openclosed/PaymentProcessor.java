@@ -1,7 +1,9 @@
-package openclosed;
+package solid.openclosed;
 
 public class PaymentProcessor {
 
+    //sem modificações
+    //nos podemos sempre adicionar novas extensões e implementar novos tipos de pagamento
     private Payment payment;
 
     public PaymentProcessor(Payment payment){

@@ -1,6 +1,4 @@
-package openclosed;
-
-import singlePrincipleResposibility.Account;
+package solid.openclosed;
 
 import java.math.BigDecimal;
 

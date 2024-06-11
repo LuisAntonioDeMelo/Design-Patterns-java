@@ -1,6 +1,5 @@
-package singlePrincipleResposibility;
+package solid.singlePrincipleResposibility;
 
-import java.beans.Transient;
 import java.math.BigDecimal;
 
 public class TransactionOperationsService {

@@ -1,6 +1,4 @@
-package openclosed;
-
-import java.util.List;
+package solid.openclosed;
 
 public class PaymentTransationService {
 

@@ -1,4 +1,4 @@
-package openclosed;
+package solid.openclosed;
 
 import java.math.BigDecimal;
 
