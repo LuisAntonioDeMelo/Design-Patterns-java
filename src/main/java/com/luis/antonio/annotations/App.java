@@ -24,6 +24,7 @@ class Processor {
             if(method.isAnnotationPresent(PrintHello.class)) {
                 System.out.println("Hello !");
                 method.invoke(obj);
+                break;
             }
         }
     }
