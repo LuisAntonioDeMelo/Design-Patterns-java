@@ -12,5 +12,6 @@ public class LoanCalculatorService {
 
         printLoanInterest(personalLoan);
         printLoanInterest(businessLoan);
+
     }
 }
